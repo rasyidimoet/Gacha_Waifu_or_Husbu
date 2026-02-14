@@ -143,8 +143,9 @@ void get_user_name(User *user){
 
 void display_menu() {
     printf("---------- SIMULATOR NGEKARBIT ---------\n");
-    printf("Seberapa karbit kamu dalam permainan ini. \n");
-    printf("Pilihan menu: \n");
+    printf("Seberapa karbit kamu dalam permainan ini \n");
+    printf("Mode Saat ini => Hunting %s\n", current_mode == MODE_WAIFU ? "Bini" : "Husbu");
+    printf("Pilihan menu : \n");
     printf("1. Langsung saja gaskan\n");
     printf("2. Cara mainnya gimana woy \n");
     printf("3. Pilih mode (Waifu / Husbu)\n");
