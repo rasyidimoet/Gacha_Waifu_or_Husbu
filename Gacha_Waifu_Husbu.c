@@ -69,7 +69,19 @@ char *daftar_nama_cowo[] = {
     "Sukuna", "Yuji Itadori", "Neferpitou", "Eren Jaeger", "Truck-kun", "Nyan Cat", "Sanji", 
     "Killua Zoldyck", "Venom", "Joker", "Son Goku", "Denji", "Naruto Uzumaki", "Megumi Fushiguro", 
     "Crona", "Toji Fushiguro", "Ken Kaneki", "L", "Katsuki Bakugou", "Kento Nanami", "Osamu Dazai", 
-    "Leon S. Kennedy", "Suguru Geto", "Tanjirou Kamado", "BMO", "Dio Brando", "Guts"
+    "Leon S. Kennedy", "Suguru Geto", "Tanjirou Kamado", "BMO", "Dio Brando", "Guts", 
+    "Godzilla", "Shoto Todoroki", "Jotaro Kujo", "Izuku Midoriya", "Sasuke Uchiha", 
+    "Astolfo", "Aki Hayakawa", "Kyoujurou Rengoku", "Sonic the Hedgehog", "Trollface", 
+    "Giyuu Tomioka", "Itachi Uchiha", "Sung Jin Woo", "Ichigo Kurosaki", "Ghostface", 
+    "Shadow the Hedgehog", "Choso", "Spider Man (Peter Parker)", "Mewtwo", "Nanika", 
+    "Portgas D. Ace", "Phosphophyllite", "Dante", "Kakashi Hatake", "Yuta Okkotsu" 
+    "Kurapika", "Light Yagami", "Tony Tony Chopper" "Black Hanekawa", "Gon Freecss", 
+    "Inosuke Hashibira", "Tanya Degurechaff", "Eevee", "Batman (Bruce Wayne)", "Mew", 
+    "Howl", "Joseph Joestar", "Zenitsu Agatsuma", "Cloud Strife", "Orochimaru", "Nanachi", 
+    "No-Face", "Armin Arlert", "Vaporeon", "Sylveon", "Dabi", "Nagito Komaeda", "Wojak", 
+    "Trafalgar Law", "Shouyou Hinata", "Toge Inumaki", "Mahoraga", "Gunter", "Edward Elric", 
+    "Foo Fighters", "Akaza", "Chuuya Nakahara" "Hawks", "Vegeta", "Tengen Uzui", "Arataka Reigen",
+    "Hanako-kun", "Loki (Loki Laufeyson)", "Lelouch Lamperouge"
 };
 
 int total_cowo = sizeof(daftar_nama_cowo) / sizeof (daftar_nama_cowo[0]);
